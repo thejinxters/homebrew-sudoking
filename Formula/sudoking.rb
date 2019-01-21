@@ -1,8 +1,8 @@
 class Sudoking < Formula
   desc "Co-process for iTerm to wrap a password manager cli"
   homepage "https://github.com/thejinxters/SudoKing"
-  url "https://github.com/thejinxters/SudoKing/releases/download/0.0.3/sudoking-0.0.3.tar.gz"
-  sha256 "cc81c6f3dce3dfb0230541b84b3298e8f4b5049137bae14dd79717371e2fb845"
+  url "https://github.com/thejinxters/SudoKing/releases/download/0.0.4/sudoking-0.0.4.tar.gz"
+  sha256 "90e8dd7a1ead92d4e51782f33c286c67f0691d9a639a560d636f3f90f7711fbb"
 
   def install
     # Move everything under #{libexec}/
